@@ -1,7 +1,7 @@
-<?php include 'partials/header.php';?>
-   <!-- Page Title -->
-   <title>About | MEXXON</title>
-   </head>
+<?php include 'partials/header.php'; ?>
+<!-- Page Title -->
+<title>About | MEXXON</title>
+</head>
 
 <body>
     <!-- Preloader Starts -->
@@ -13,12 +13,12 @@
     <!-- Header Area Starts -->
     <!-- Header Area Starts -->
     <header class="header-area single-page" style="background-image: url('assets/images/team1.jpg');">
-    <?php include 'partials/nav.php';?>
+        <?php include 'partials/nav.php'; ?>
         <div class="page-title text-center">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 offset-md-3">
-                        <h2>Message From the Ceo</h2>
+                        <h2>Message From the CEO</h2>
                         <p>
                         </p>
                     </div>
@@ -40,7 +40,7 @@
                             On behalf of the Management and Employees of Mexxon I would like to welcome you to the Mexxon website.
                         </p>
                         <p class="text-justify">
-                            Through years of strong performance in various areas of our company’s business including Mexxon Job Search (Human Resources), Mexxon Properties (Real Estate) and Mexxon Legal Services (Law) Mexxon has built a reputation as a premier Human Resources, Real Estate and Legal Firm many individuals/businesses. The company prides itself on designing and delivering innovative and cost-effective solutions for our clients. It is with this in mind that Mexxon developed its unique Job Search Skills Training Program to provide first class training for so many people (especially young graduates) who are facing a major challenge securing employment after leaving University. This Program is like no other in that it is tailored to equip all participants with the vital skills they require in order to get good jobs.    
+                            Through years of strong performance in various areas of our company’s business including Mexxon Job Search (Human Resources), Mexxon Properties (Real Estate) and Mexxon Legal Services (Law) Mexxon has built a reputation as a premier Human Resources, Real Estate and Legal Firm many individuals/businesses. The company prides itself on designing and delivering innovative and cost-effective solutions for our clients. It is with this in mind that Mexxon developed its unique Job Search Skills Training Program to provide first class training for so many people (especially young graduates) who are facing a major challenge securing employment after leaving University. This Program is like no other in that it is tailored to equip all participants with the vital skills they require in order to get good jobs.
                         </p>
                         <p class="text-justif">
                             As a dynamic Human Resources, Real Estate and Legal Services solutions provider, Mexxon has proven experience and expertise encompassing the entire Human Resources, Property Services (including Property Management) and Legal Services with specialization in property matters. We continually seek to maximize efficiencies and synergies in the solutions we design in solving our trainees/clients' problems with a view to creating unique opportunities for them. We are a company that is focused on delivering “best value” to all our clients both within and outside Nigeria where we have clients especially in the UK, USA and Canada.
@@ -55,23 +55,23 @@
                             <div class="col-md-6">
                                 <p class="text-left">
                                     <strong>
-                                    Barr. Emeka Igweze<br/>
-                                    MD/CEO<br/>
-                                    MEXXON<br/>
+                                        Barr. Emeka Igweze<br />
+                                        MD/CEO<br />
+                                        MEXXON<br />
                                     </strong>
                                 </p>
                             </div>
                             <div class="col-md-6">
                                 <p class="well text-center">
                                     <strong>
-                                        Introduction Mexxon Job Search
-                                        <br/> 
+                                        Mexxon Job Search Brochure
+                                        <br />
                                         <a href="https://drive.google.com/open?id=12QniyZ4ou7nETf1ZjdNHrF8ePF4A6BpU" target="__blank" class="btn secondary-btn text-center">Download Here<span class="flaticon-next"></span></a>
-                                     <strong>
-                                </p>  
+                                        <strong>
+                                </p>
                             </div>
                         </div>
-                        
+
                     </header>
                     <!-- .heading -->
                     <div>
@@ -90,5 +90,5 @@
 
 
 
-    
-    <?php include 'partials/footer.php';?>
+
+    <?php include 'partials/footer.php'; ?>
