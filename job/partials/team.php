@@ -21,7 +21,7 @@
                         </div>
                         <div class="team-footer text-center mt-4">
                             <h4>
-                                <strong>BARRISTER EMEKA IGWEZE,</strong> 
+                                <strong>BARRISTER EMEKA IGWEZE,</strong>
                                 <small class="text-primary">
                                     LLB(Hons), LLM(Lond), BL, MSc, MBA
                                 </small>
@@ -43,19 +43,19 @@
                             Professionally, Barrister Igweze has worked for various top companies in the UK and Nigeria. He has worked in various business sectors over many years including Oil and Gas Exploration/Production (British Gas PLC, UK and Emerald Energy Resources Limited with offices in Lagos, Nigeria, Beijing (China), Calgary (Canada) and Houston (USA), British Telecom (UK) and in Real Estate with leading property company Warren & Bradley Estates, London (UK). Barrister Igweze was Head of the Human Resources function in several companies. He was the General Manager, Human Resources at Emerald Energy Resources Limited for 12 years (2006-2018) where he was responsible for drawing up Human Resources Business Plans, all staffing matters including Recruitment, Selection, Training, Interviewing, Staff Performance Evaluations, Salary Structure, Strategy etc. Barrister excelled in what has so far been an absolutely brilliant career. He is also generally recognized as an expert in “Quality Management”. He is author of the critically acclaimed Manual on quality management titled “Total Quality or Total Paralysis – Which Way Forward”?
                         </p>
                         <p class="text-justify">
-                            Barrister Igweze has been influencial over the past decade in training hundreds of successful job seekers using his tried and trusted Job Seeker Accelerator Program which enables job seekers (especially young/fresh graduates) to find jobs at a much faster rate than would otherwise be the case. The Accelerator Program lasts only two weeks and exposes job seekers to the secrets of job search success. During the program trainees will receive superb CV and Job Application Cover Letter Writing Skills as well as detailed training on all the vital things you need to know in order to change the current situation you are in from how to quantify your achievements to how to research for job applications to ensure that you secure a “plum” job as quickly as possible. The Program is the only one of its kind to be found anywhere in Nigeria and is unique in that a large number of trainees have already  benefitted from the experience after finding it easier to get good jobs compared to their lack of success before the Program. It is designed to give anyone beginning a job search or actively involved in a job search the key skills they need to find the job they are looking for.
+                            Barrister Igweze has been influencial over the past decade in training hundreds of successful job seekers using his tried and trusted Job Seeker Accelerator Program which enables job seekers (especially young/fresh graduates) to find jobs at a much faster rate than would otherwise be the case. The Accelerator Program lasts only two weeks and exposes job seekers to the secrets of job search success. During the program trainees will receive superb CV and Job Application Cover Letter Writing Skills as well as detailed training on all the vital things you need to know in order to change the current situation you are in from how to quantify your achievements to how to research for job applications to ensure that you secure a “plum” job as quickly as possible. The Program is the only one of its kind to be found anywhere in Nigeria and is unique in that a large number of trainees have already benefitted from the experience after finding it easier to get good jobs compared to their lack of success before the Program. It is designed to give anyone beginning a job search or actively involved in a job search the key skills they need to find the job they are looking for.
                         </p>
                         <p class="text-justify">
                             Building effective networks and linkages across Lagos has allowed Mexxon to connect with various categories of job seekers including Final Year University Students, Post NYSC Graduates, people who are unemployed after losing their job for various reasons such as downsizing, restructuring etc, people who have taken a career break and are now seeking to return to full-time employment, people who are looking for a career change and people who may be relocating and need help with the right strategy to secure employment in their new proposed location.
                         </p>
                         <p class="text-justify">
-                            Barrister Igweze’s vast experience in helping people into jobs has been gathered over decades of being responsible for recruitment in companies, conducting job interviews, training staff and delivering practical training sessions for job seekers. He has delivered life changing job search training to job seekers internationally especially in Nigeria, UK and in the United States.  True professionalism is absolutely priceless at Mexxon and it is with this mantra that Barrister Igweze had developed the highly acclaimed Accelerator Job Search Training Program that is already changing the landscape of job searching in Nigeria and giving hope to hundreds of thousands of unemployed people in our country.
+                            Barrister Igweze’s vast experience in helping people into jobs has been gathered over decades of being responsible for recruitment in companies, conducting job interviews, training staff and delivering practical training sessions for job seekers. He has delivered life changing job search training to job seekers internationally especially in Nigeria, UK and in the United States. True professionalism is absolutely priceless at Mexxon and it is with this mantra that Barrister Igweze had developed the highly acclaimed Accelerator Job Search Training Program that is already changing the landscape of job searching in Nigeria and giving hope to hundreds of thousands of unemployed people in our country.
                         </p>
                     </header>
                 </div>
             </div>
 
-            <br/><br/>
+            <br /><br />
 
             <div class="row">
                 <div class="col-md-4 col-xs-12">
@@ -89,10 +89,10 @@
                         </p>
                     </header>
                 </div>
-                
+
             </div>
 
-            <br/><br/>
+            <br /><br />
             <div class="row">
                 <div class="col-md-4 col-xs-12">
                     <div class="single-team mb-5 mb-lg-0">
@@ -126,10 +126,10 @@
                         </p>
                     </header>
                 </div>
-                
+
             </div>
 
-            <br/><br/>
+            <br /><br />
             <div class="row">
                 <div class="col-md-4 col-xs-12">
                     <div class="single-team mb-5 mb-lg-0">
@@ -143,7 +143,7 @@
                             </div>
                         </div>
                         <div class="team-footer text-center mt-4">
-                            <h4><strong>RUTH ODIJIE</strong> <small  class="text-primary">BSc(Hons) Business Administration</small></h4>
+                            <h4><strong>RUTH ODIJIE</strong> <small class="text-primary">BSc(Hons) Business Administration</small></h4>
                             <h5>JOB SEARCH SKILLS TRAINER/FACILITATOR & OFFICE MANAGER</h5>
                         </div>
                     </div>
@@ -155,18 +155,18 @@
                             Ruth Odijie graduated in 2014 from the Department of Business Administration in the Faculty of Management Sciences of Delta State University. A young and vibrant lady Ruth will stop at nothing to get things done. She is smart, intelligent, hardworking and dedicated to delivering a high level of training and service to participants in our highly acclaimed Job Search Skills Training Program. She demonstrates outstanding qualities in both Program and Office Management. Ruth is responsible for Program planning and general registration of program participants including preparation of all the training materials used for the program. Ruth has shown a lot of passion for Job Search as she is particularly concerned about the devastating impact of high unemployment especially among young graduates in Nigeria.
                         </p>
                         <p class="text-justify">
-                            Among her key responsibilities at Mexxon Job Search are 
+                            Among her key responsibilities at Mexxon Job Search are
                             <ol>
                                 <li>
-                                    Identification of the level of job search training required by each candidate who wishes to participate in our Program. She does this through consultation on a regular basis with various Business Managers and Human Resources Departments     
+                                    Identification of the level of job search training required by each candidate who wishes to participate in our Program. She does this through consultation on a regular basis with various Business Managers and Human Resources Departments
                                 </li>
                                 <li>
-                                    Work within the job search training team to design and develop training programs that are aimed at equipping participants with the tools they need to succeed in their job search efforts in the shortest possible time 
+                                    Work within the job search training team to design and develop training programs that are aimed at equipping participants with the tools they need to succeed in their job search efforts in the shortest possible time
                                 </li>
-                                <li> 
-                                    Monitor the progress of trainees during the Job Search Training Course and after they have completed the program to ensure that they continue to receive support from Mexxon until they are successful in securing a job 
+                                <li>
+                                    Monitor the progress of trainees during the Job Search Training Course and after they have completed the program to ensure that they continue to receive support from Mexxon until they are successful in securing a job
                                 </li>
-                                <li> 
+                                <li>
                                     Produce individual learning plans for trainees (5) As Office Manager, manage the delivery of our training and various development programs.
                                 </li>
                             </ol>
@@ -179,10 +179,10 @@
                         </p>
                     </header>
                 </div>
-                
+
             </div>
 
-            <br/><br/>
+            <br /><br />
             <div class="row">
                 <div class="col-md-4 col-xs-12">
                     <div class="single-team mb-5 mb-lg-0">
@@ -196,7 +196,7 @@
                             </div>
                         </div>
                         <div class="team-footer text-center mt-4">
-                            <h4><strong>CYNTHIA OSAJI</strong> <small  class="text-primary">BSc(Hons) Geology</small></h4>
+                            <h4><strong>CYNTHIA OSAJI</strong> <small class="text-primary">BSc(Hons) Geology</small></h4>
                             <h5>HEAD, MARKERTING TEAM, MEXXON</h5>
                         </div>
                     </div>
@@ -214,11 +214,46 @@
                             Cynthia brings to our Training Programs superb personal competencies such as planning and organizing skills, information gathering, marketing skills (including digital marketing on various social media platforms), communication skills, presentation skills, coaching skills, adaptability and creativity. Training is teaching or developing oneself or others, any skills and knowledge that relate to specific competencies. Training has specific goals of improving one's capability, capacity, productivity and performance. It is for these reasons that Cynthia has so much passion for the Mexxon Job Skills Training Program.
                         </p>
                         <p class="text-justify">
-                            In her role as the Lead Marketer at Mexxon, Cynthia is brilliant. She realizes and recognizes that a Marketer should have excellent spoken and written communication skills, use a creative and open-minded approach to drive our marketing activities and processes in the company to ensure that there is a high level of awareness of the quality of services we offer to jobseekers especially young graduates and post NYSC graduates who are in the job market seeking employment in what is a difficult employment market for graduates in Nigeria due mainly to the bad economic circumstances in the country.       
+                            In her role as the Lead Marketer at Mexxon, Cynthia is brilliant. She realizes and recognizes that a Marketer should have excellent spoken and written communication skills, use a creative and open-minded approach to drive our marketing activities and processes in the company to ensure that there is a high level of awareness of the quality of services we offer to jobseekers especially young graduates and post NYSC graduates who are in the job market seeking employment in what is a difficult employment market for graduates in Nigeria due mainly to the bad economic circumstances in the country.
                         </p>
                     </header>
                 </div>
-                
+
+            </div>
+            <br /><br />
+            <div class="row">
+                <div class="col-md-4 col-xs-12">
+                    <div class="single-team mb-5 mb-lg-0">
+                        <div class="team-img team-img6">
+                            <div class="hover-state">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="team-footer text-center mt-4">
+                            <h4><strong>ISAIAH O. IYELOBU</strong> <small class="text-primary"></small></h4>
+                            <h5>SOCIAL MEDIA HEAD, MEXXON MARKETING TEAM</h5>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <header class="heading">
+                        <p class="justify">
+                            Isaiah Iyelobu is a creative and enthusiastic professional with excellent customer care, branding, marketing, conceptualization and managerial skills. He is seriously motivated and driven by a strong desire to achieve visible results which gives him and the team a sense of accomplishment. He makes excellent contributions to corporate tasks and ideas. He is particularly gifted when it comes to finding solutions to business challenges.
+                        </p>
+                        <p class="text-justify">
+                            Isaiah has widespread work experience and has traversed customer service, designing, printing, brand identity management, systems maintenance and upgrading, market analysis, decisiveness, negotiating skills and strategic/analytical thinking. Proficient in major applications such as Corel Draw, MS Office, Internet Explorer and operating systems including Windows XP, Windows Vista, Windows 7, 8 and 10. He is also highly proficient in Macintosh OS.
+                        </p>
+                        <p class="text-justify">
+                            Since joining Mexxon he has made a remarkable impact on our social media marketing approach, activities and strategy. His innate ability to create wonderful designs which accurately and professionally showcase our range of services to our clients has had a lot of impact on the company’s business and growth in recent times. Based in our corporate offices in Lekki Phase 1, Lagos, Isaiah works very closely with other functional Heads in the company and also with the Chief Executive of Mexxon.
+                        </p>
+                    </header>
+                </div>
+
             </div>
         </div>
     </section>
